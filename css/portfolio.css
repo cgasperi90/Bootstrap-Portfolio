@@ -1,0 +1,82 @@
+body {
+    background-image: url(email-pattern.png);
+}
+.nav .justify-content-end {
+    width: 75%;
+}
+.nav {
+    margin-right: 175px;
+}
+.myName {
+    width: 25%;
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 9px;
+    margin-left: 175px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    background-color: #ffffff;
+    height: 650px;
+    margin-top: 35px;
+    border: solid 1px lightgrey;
+    border-radius: 5px;
+    line-height: 30px;
+}
+.nav-link {
+    color: #4aaaa5;
+}
+header {
+    background-color: #ffffff;
+    margin: 0;
+    padding-bottom: 25px;
+    border-bottom: solid 3px lightgrey;
+}
+footer {
+    background-color: #666666;
+    text-align: center;
+    color: lightgrey;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.portfolio {
+    padding: 10px;
+    border-bottom: 3px solid lightgrey;
+    margin-bottom: 25px;
+    color: #4aaaa5;
+}
+.textBar {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 180px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+    bottom: 65px;
+    left: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.gallery {
+    margin: 42px;
+    float: left;
+    width: 180px;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  footer {
+    background-color: #666666;
+    text-align: center;
+    color: lightgrey;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
